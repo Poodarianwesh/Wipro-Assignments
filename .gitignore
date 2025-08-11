@@ -1,0 +1,24 @@
+# Eclipse / IDE
+.metadata/
+.settings/
+.project
+.classpath
+.idea/
+
+# Java build
+target/
+bin/
+*.class
+
+# Maven / Gradle
+!.mvn/wrapper/maven-wrapper.jar
+/.mvn/
+.gradle/
+
+# Logs and OS
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
